@@ -20,3 +20,5 @@ let minute = null;
 
 //symbol
 const lname = symbol;
+
+//object
